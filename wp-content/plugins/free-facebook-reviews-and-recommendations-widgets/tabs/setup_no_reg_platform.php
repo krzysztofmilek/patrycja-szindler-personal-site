@@ -1,0 +1,1 @@
+<button class="btn btn-text btn-connect-public"><?php echo TrustindexPlugin_facebook::___("Connect") ;?></button>

@@ -1,0 +1,192 @@
+# Translation of Themes - Twenty Twenty-Three in Polish
+# This file is distributed under the same license as the Themes - Twenty Twenty-Three package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-08 20:47:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - Twenty Twenty-Three\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Twenty Twenty-Three"
+msgstr "Twenty Twenty-Three"
+
+#. Translators: WordPress link.
+#: patterns/footer-default.php:19
+msgid "Proudly powered by %s"
+msgstr "Dumnie wspierane przez %s"
+
+#: patterns/hidden-404.php:13
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-404.php:22 patterns/hidden-no-results.php:14
+msgid "Search"
+msgstr "Szukaj"
+
+#: patterns/hidden-404.php:22 patterns/hidden-no-results.php:14
+msgctxt "label"
+msgid "Search"
+msgstr "Szukaj"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Stopka"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Nagłówek"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Pusto"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr "Meta dane wpisu"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Komentarze"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr "Source Serif Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "Systemowy krój pisma"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "IBM Plex Mono"
+msgstr "IBM Plex Mono"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "DM Sans"
+msgstr "DM Sans"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "404"
+msgstr "404"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog (Alternative)"
+msgstr "Blog (alternatywnie)"
+
+#: styles/whisper.json
+msgctxt "Style variation name"
+msgid "Whisper"
+msgstr "Whisper"
+
+#: patterns/post-meta.php:28
+msgctxt "Verb to explain the publication status of a post"
+msgid "Posted"
+msgstr "Opublikowano"
+
+#: patterns/post-meta.php
+msgctxt "Pattern title"
+msgid "Post Meta"
+msgstr "Meta dane wpisu"
+
+#: patterns/hidden-no-results.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Brak wyników wyszukiwania. Proszę spróbować ponownie z innymi słowami."
+
+#: patterns/hidden-comments.php:13
+msgctxt "Title of comments section"
+msgid "Comments"
+msgstr "Komentarze"
+
+#: patterns/hidden-404.php:22 patterns/hidden-no-results.php:14
+msgctxt "placeholder for search field"
+msgid "Search..."
+msgstr "Wyszukiwanie..."
+
+#: patterns/hidden-404.php:19
+msgctxt "Message to convey that a webpage could not be found"
+msgid "This page could not be found."
+msgstr "Nie można odnaleźć wybranej strony."
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr "Stopka domyślna"
+
+#: patterns/call-to-action.php:24
+msgctxt "sample content for call to action button"
+msgid "Get In Touch"
+msgstr "Pozostań w kontakcie"
+
+#: patterns/call-to-action.php
+msgctxt "Pattern title"
+msgid "Call to action"
+msgstr "Wezwanie do działania"
+
+#: theme.json styles/marigold.json styles/pitch.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json styles/marigold.json styles/pitch.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json styles/marigold.json styles/pitch.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json styles/marigold.json styles/pitch.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json styles/marigold.json styles/pitch.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json styles/marigold.json styles/pitch.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "the WordPress team"
+msgstr "zespół WordPressa"
+
+#. Author URI of the theme
+#: patterns/footer-default.php:20
+#, gp-priority: low
+msgid "https://wordpress.org"
+msgstr "https://pl.wordpress.org"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://wordpress.org/themes/twentytwentythree"
+msgstr "https://pl.wordpress.org/themes/twentytwentythree/"
